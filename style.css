@@ -1,1 +1,86 @@
-img
+*{
+  
+}
+.banner{
+    background-image: url(B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1320px;
+    height: 600px;
+    margin: auto;
+    position: relative;
+    border-radius: 16px;
+    margin-top: 25px 70px ;
+}
+
+.head{
+    position: absolute;
+    text-align: center;
+    padding-left: 22%;
+    padding-top: 7%;
+
+}
+h3{
+    font-size: 40px;
+    color: #ffffff;
+}
+h1{
+    font-size: 70px;
+    color: #ffffff;
+}
+#big{
+    font-size: 88px;
+    color: #ff0000;
+    text-align: center;
+}
+.our{
+    text-align:center ;
+    color: #ff0000;
+}
+#more{
+    color: #000000;
+    font-size: 48px;
+}
+img{
+    width: 600px;
+    height: 400px;
+    padding-left: 30%;
+}
+.add-photo{
+    background-image: url(B9A1-New-Year-New-Mission/resources/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    border-radius: 10px;
+    margin: auto;
+    display: flex;
+    margin-top: 80px;
+
+}
+.welcome>p{
+    color: #ffffff;
+
+}
+.welcome>.text1{
+    font-size: 64px;
+}
+.welcome{
+    padding: 130px 5px 130px 130px;
+
+}
+.Group70{
+    width: 250.83px;
+    height: 600px;
+    padding-top: 10% ;
+}
+.join-div{
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    margin: 50px ; 
+    background:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);;
+    margin: auto;
+    border-radius: 10px;
+}
+#color{
+    color: #ff0000;
+}
